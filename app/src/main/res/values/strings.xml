@@ -13,5 +13,8 @@
 
     <string name="title_activity_log_expenditure">LogExpenditure</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_income">Income</string>
+    <string name="title_activity_outgoings">Outgoings</string>
+    <string name="title_activity_recommendations">Recommendations</string>
 
 </resources>

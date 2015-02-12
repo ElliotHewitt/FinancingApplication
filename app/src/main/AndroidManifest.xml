@@ -28,6 +28,38 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="emmajanefearn.financingapplication.Menu" />
         </activity>
+        <activity
+            android:name=".Income"
+            android:label="@string/title_activity_income"
+            android:parentActivityName=".Menu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="emmajanefearn.financingapplication.Menu" />
+        </activity>
+        <activity
+            android:name=".Settings"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName=".Menu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="emmajanefearn.financingapplication.Menu" />
+        </activity>
+        <activity
+            android:name=".Outgoings"
+            android:label="@string/title_activity_outgoings"
+            android:parentActivityName=".Menu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="emmajanefearn.financingapplication.Menu" />
+        </activity>
+        <activity
+            android:name=".Recommendations"
+            android:label="@string/title_activity_recommendations"
+            android:parentActivityName=".Menu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="emmajanefearn.financingapplication.Menu" />
+        </activity>
     </application>
 
 </manifest>
