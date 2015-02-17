@@ -19,6 +19,10 @@
         <activity
             android:name=".Overview"
             android:label="@string/title_activity_overview" >
+            android:parentActivityName=".Menu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="emmajanefearn.financingapplication.Menu" />
         </activity>
         <activity
             android:name=".LogExpenditure"
