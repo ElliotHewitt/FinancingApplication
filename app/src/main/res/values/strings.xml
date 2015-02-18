@@ -16,5 +16,17 @@
     <string name="title_activity_income">Income</string>
     <string name="title_activity_outgoings">Outgoings</string>
     <string name="title_activity_recommendations">Recommendations</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string-array name="types">
+        <item>Type 1</item>
+        <item>Type 2</item>
+        <item>Type 3</item>
+    </string-array>
+    <string-array name="types_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
 
 </resources>
